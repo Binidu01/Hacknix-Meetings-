@@ -1,12 +1,10 @@
 <div align="center">
   
-# Hacknix-Meetings
+# Hacknix-Meetings-
 
-A modern, real-time video conferencing web application enabling seamless communication with high-quality video, audio, screen sharing, and chat functionality.
+A modern, real-time video conferencing web application that enables seamless communication with high-quality video, audio, screen sharing, and chat functionality.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 [![Stars](https://img.shields.io/github/stars/Binidu01/Hacknix-Meetings-?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings-/stargazers)
 [![Forks](https://img.shields.io/github/forks/Binidu01/Hacknix-Meetings-?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings-/network/members)
@@ -20,9 +18,9 @@ A modern, real-time video conferencing web application enabling seamless communi
 ## 📋 Table of Contents
 
 - [🚀 Features](#-features)
-- [🛠️ Installation](#-installation)
+- [🛠️ Installation](#️-installation)
 - [💻 Usage](#-usage)
-- [🏗️ Built With](#-built-with)
+- [🏗️ Built With](#️-built-with)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📞 Contact](#-contact)
@@ -33,19 +31,15 @@ A modern, real-time video conferencing web application enabling seamless communi
 ## 🚀 Features
 
 - ✨ Modern and intuitive user interface
-- 🔥 High-performance real-time video and audio
-- 🛡️ Secure and reliable communication
-- 📱 Responsive design for all devices
-- 🌐 Cross-platform compatibility (desktop & browser)
-- 🖥️ Screen sharing with camera picture-in-picture
-- 💬 Real-time chat with message history
-
----
+- 🔥 High performance and scalability
+- 🛡️ Secure and reliable
+- 📱 Responsive design
+- 🌐 Cross-platform compatibility
 
 ## 🛠️ Installation
 
 ### Prerequisites
-- Node.js v14 or higher
+- Node.js (v14 or higher)
 - npm or yarn
 
 ### Quick Start
@@ -61,74 +55,65 @@ npm install
 
 # Start development server
 npm run dev
-Open http://localhost:3000 to view the app in your browser.
 
-# Start node server in another terminal
+# Start node server (In another terminal)
 node server.js
+```
 
-💻 Usage
-After running the dev server:
 
-Open the app in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Create a room or join an existing room via URL.
+## 💻 Usage
 
-Enable camera, microphone, or screen sharing.
+```bash
+# Basic usage example
+hacknix-meetings- --help
+```
 
-Chat with participants in real-time.
+For more detailed usage instructions, please refer to our [documentation](https://github.com/Binidu01/Hacknix-Meetings-).
 
-Leave the meeting safely with the Leave button.
+## 🏗️ Built With
 
-For more details, see the documentation.
+- **TypeScript** - 72.9%
+- **JavaScript** - 26.4%
+- **CSS** - 0.6%
 
-🏗️ Built With
-TypeScript
+## 🤝 Contributing
 
-JavaScript
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Next.js
+1. Fork the Project
+2. Create your Feature Branch `git checkout -b feature/AmazingFeature`
+3. Commit your Changes `git commit -m Add some AmazingFeature`
+4. Push to the Branch `git push origin feature/AmazingFeature`
+5. Open a Pull Request
 
-React
+## 📄 License
 
-Socket.IO (for real-time signaling)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-WebRTC (for video/audio streaming)
+## 📞 Contact
 
-Tailwind CSS
+**Binidu01** - [@Binidu01](https://github.com/Binidu01)
 
-🤝 Contributing
-Contributions are greatly appreciated!
+Project Link: [https://github.com/Binidu01/Hacknix-Meetings-](https://github.com/Binidu01/Hacknix-Meetings-)
 
-Fork the project
 
-Create your feature branch: git checkout -b feature/AmazingFeature
 
-Commit your changes: git commit -m "Add some AmazingFeature"
+## 🙏 Acknowledgments
 
-Push to the branch: git push origin feature/AmazingFeature
+- Thanks to all contributors who have helped this project grow
+- Special thanks to the open source community
+- Built with ❤️ and lots of ☕
 
-Open a Pull Request
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-📞 Contact
-Binidu01 - GitHub Profile
-
-Project Link: https://github.com/Binidu01/Hacknix-Meetings-
-
-🙏 Acknowledgments
-Thanks to all contributors who helped this project grow
-
-Inspired by Zoom, Microsoft Teams, and other video conferencing apps
-
-Built with ❤️ and lots of ☕
+---
 
 <div align="center">
-⬆ Back to Top
+  
+**[⬆ Back to Top](#hacknix-meetings-)**
 
-Made with ❤️ by Binidu01
+Made with ❤️ by [Binidu01](https://github.com/Binidu01)
 
 ⭐ Star this repo if you find it useful!
 
-</div> ```
+</div>
