@@ -1,15 +1,15 @@
 <div align="center">
   
-# Hacknix-Meetings-
+# Hacknix-Meetings
 
-A modern, real-time video conferencing web application that enables seamless communication with high-quality video, audio, screen sharing, and chat functionality.
+A cool project built with passion 🚀
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-[![Stars](https://img.shields.io/github/stars/Binidu01/Hacknix-Meetings-?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings-/stargazers)
-[![Forks](https://img.shields.io/github/forks/Binidu01/Hacknix-Meetings-?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings-/network/members)
-[![Issues](https://img.shields.io/github/issues/Binidu01/Hacknix-Meetings-?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings-/issues)
-[![License](https://img.shields.io/github/license/Binidu01/Hacknix-Meetings-?style=for-the-badge)](https://github.com/Binidu01/Hacknix-Meetings-/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Binidu01/Hacknix-Meetings?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings/stargazers)
+[![Forks](https://img.shields.io/github/forks/Binidu01/Hacknix-Meetings?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings/network/members)
+[![Issues](https://img.shields.io/github/issues/Binidu01/Hacknix-Meetings?style=for-the-badge&logo=github)](https://github.com/Binidu01/Hacknix-Meetings/issues)
+[![License](https://img.shields.io/github/license/Binidu01/Hacknix-Meetings?style=for-the-badge)](https://github.com/Binidu01/Hacknix-Meetings/blob/main/LICENSE)
 
 </div>
 
@@ -45,21 +45,17 @@ A modern, real-time video conferencing web application that enables seamless com
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/Binidu01/Hacknix-Meetings-.git
+git clone undefined.git
 
 # Navigate to project directory
-cd Hacknix-Meetings-
+cd undefined
 
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-
-# Start node server (In another terminal)
-node server.js
 ```
-
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -67,10 +63,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ```bash
 # Basic usage example
-hacknix-meetings- --help
+hacknix-meetings --help
 ```
 
-For more detailed usage instructions, please refer to our [documentation](https://github.com/Binidu01/Hacknix-Meetings-).
+For more detailed usage instructions, please refer to our [documentation](https://github.com/Binidu01/Hacknix-Meetings).
 
 ## 🏗️ Built With
 
@@ -96,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Binidu01** - [@Binidu01](https://github.com/Binidu01)
 
-Project Link: [https://github.com/Binidu01/Hacknix-Meetings-](https://github.com/Binidu01/Hacknix-Meetings-)
+Project Link: [https://github.com/Binidu01/Hacknix-Meetings](https://github.com/Binidu01/Hacknix-Meetings)
 
 
 
@@ -110,7 +106,7 @@ Project Link: [https://github.com/Binidu01/Hacknix-Meetings-](https://github.com
 
 <div align="center">
   
-**[⬆ Back to Top](#hacknix-meetings-)**
+**[⬆ Back to Top](#hacknix-meetings)**
 
 Made with ❤️ by [Binidu01](https://github.com/Binidu01)
 
